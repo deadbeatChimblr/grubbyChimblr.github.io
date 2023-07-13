@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="/assets/lib/style/second.css" type="text/css">
+<script>
+    $(document).ready(function(){
+        var image = new Array ();
+        image[0] = "/img/banners/header/headerimg0001.png";
+
+
+        var size = image.length
+        var x = Math.floor(size*Math.random()-1)
+        $('#randombanner').attr('src',image[x]);
+    });
+</script>
+
+<p class="footer">
+    <table width="100%" class="borderless">
+        <tr>
+            <td><p style="font-family: CourierPrime-Regular;">last updated<br>10/11/2022</p></td>
+            <td><a href="/index.html"><img src="/assets/img/c_sm64_2_r.png" width="250px" style="float: right"></td>
+        </tr>
+    </table>
+</p>
+<img id="randombanner" width="100%">
