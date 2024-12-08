@@ -5,4 +5,4 @@ for example, say i've forgotten a while now to update a specific image, or that 
 
 additionally, most contributions from others are normally to outsource work so it can be done faster. not for new content entirely!
 
-HI IT'S CHRIS RUST WROTE THAT AND IDK WHAT TO DO WITH THIS UM DO WHATEVER
+HI IT'S ZOEY; RUST WROTE THAT AND IDK WHAT TO DO WITH THIS UM DO WHATEVER
